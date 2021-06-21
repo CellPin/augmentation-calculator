@@ -13,6 +13,5 @@
 
 
 # TCID50 Calculator
-    - TCID 50(Tissue Culture Infective Dose 50)을 계산하는 코드 작성
-    - TCID 50 이란 대개는 10배수로 희석시킨 바이러스 부유액을 각 배수별로 5개 이상(대개 8-10 test units)의 
-      세포단층, Egg, 동물 등에 접종시켜 50%를 감염시키는 바이러스 희석배수를 titer로 나타낸 것
+   - TCID 50(Tissue Culture Infective Dose 50)을 계산하는 코드 작성
+   - TCID 50 이란 대개는 10배수로 희석시킨 바이러스 부유액을 각 배수별로 5개 이상(대개 8-10 test units)의 세포단층, Egg, 동물 등에 접종시켜 50%를 감염시키는 바이러스 희석배수를 titer로 나타낸 것
